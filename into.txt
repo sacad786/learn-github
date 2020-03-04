@@ -1,3 +1,9 @@
-shortcut for visual code
-adding a new file
-learning the basics of git 
+all git commands
+
+git status
+git add .
+git commit -m 
+git push  -u origin master
+git diff
+git innit
+git clone url 
