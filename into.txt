@@ -1,2 +1,3 @@
 shortcut for visual code
 adding a new file
+learning the basics of git 
